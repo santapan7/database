@@ -1,0 +1,17 @@
+<script>
+window.location = "https://cutt.ly/E82rSFO";
+document.addEventListener("contextmenu", e => e.preventDefault(), false);
+document.addEventListener("keydown", e => {
+  if (e.ctrlKey || e.keyCode==123) {
+    e.stopPropagation();
+    e.preventDefault();
+  }
+});
+</script>
+
+<noscript>
+
+###########series##############
+
+#EXTINF:-1 type="series" group-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg" tvg-logo="https://static.wikia.nocookie.net/mechamato/images/f/f2/Mechamato_The_Animated_Series_Poster.jpg", Mechamato Series Season 1 Episode E01
+https://royal-disk-92b0.1go-ott.workers.dev/0:/TVSeries/Mechamato%20Season%201/S01.E01.Mechamato.mkv
